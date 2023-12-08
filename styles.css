@@ -1,0 +1,88 @@
+body {
+    font-family: Arial, "Gotham Pro Narrow", serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+
+#content {
+    padding: 20px;
+}
+
+#creators {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.creator {
+    border: 1px solid #ddd;
+    margin: 10px;
+    padding: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.creator:hover {
+    background-color: #f0f0f0;
+}
+
+#exhibitions {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.exhibition {
+    border: 1px solid #ddd;
+    margin: 10px;
+    padding: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.exhibition:hover {
+    background-color: #f0f0f0;
+}
+
+#artworks {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.artwork {
+    border: 1px solid #ddd;
+    margin: 10px;
+    padding: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.artwork:hover {
+    background-color: #f0f0f0;
+    display: block;
+}
+
+.artworkImageContainer {
+    text-align: center;
+    display: block;
+}
+
+.artworkImageContainer img {
+    max-width: 25%;
+    max-height: 25%;
+    display: inline-block;
+}
+
+.custom-button {
+    padding: 6px;
+    display: flow
+}
+
