@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ba4279b-ed87-4d2a-91a3-3b0f48f6d3f7" name="Changes" comment="" />
+    <list default="true" id="4ba4279b-ed87-4d2a-91a3-3b0f48f6d3f7" name="Changes" comment="/Museum-of-Art-API.git&#10;&#10;XML" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,8 +72,16 @@
       <workItem from="1702380606580" duration="720000" />
       <workItem from="1702556778501" duration="82000" />
       <workItem from="1702556901530" duration="2345000" />
-      <workItem from="1702560695912" duration="291000" />
+      <workItem from="1702560695912" duration="659000" />
     </task>
+    <task id="LOCAL-00001" summary="/Museum-of-Art-API.git&#10;&#10;XML">
+      <created>1702561199382</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702561199382</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,7 +98,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="origin/main" />
                       </list>
                     </value>
                   </entry>
@@ -111,5 +119,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="/Museum-of-Art-API.git&#10;&#10;XML" />
+    <option name="LAST_COMMIT_MESSAGE" value="/Museum-of-Art-API.git&#10;&#10;XML" />
   </component>
 </project>

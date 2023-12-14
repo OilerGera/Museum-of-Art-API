@@ -1,0 +1,19 @@
+{
+  "name": "web-api",
+  "version": "1.0.0",
+  "description": "API application focus on providing information about creators, exhibitions, and artworks from the Cleveland Museum of Art.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OilerGera/Museum-of-Art-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OilerGera/Museum-of-Art-API/issues"
+  },
+  "homepage": "https://github.com/OilerGera/Museum-of-Art-API#readme"
+}
